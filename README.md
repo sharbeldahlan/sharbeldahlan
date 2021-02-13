@@ -4,7 +4,7 @@ I'm:
 
 💻 a backend engineer
 
-🎙 into storytelling
+🎙 into [storytelling](https://www.sharbeldahlan.com/things/)
 
 🧉 fueled by yerba mate
 
