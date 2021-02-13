@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 my name is Sharbel Dahlan.
 
-<!--
-**sharbeldahlan/sharbeldahlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm:
 
-Here are some ideas to get you started:
+💻 a backend engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎙 into storytelling
+
+🧉 fueled by yerba mate
+
+🇫🇮 based in Helsinki, Finland.
+
+🌱 currently developing software for Holvi Payment Services (code in private repos).
+
+### Skills 🐍
+Python, Django, PostgreSQL, Docker, Git, JavaScript, HTML, CSS.
+
+Write me on [LinkedIn](https://www.linkedin.com/in/sharbeldahlan) for collabs 🤝🏼.
