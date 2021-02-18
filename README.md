@@ -13,7 +13,7 @@ I'm:
 🌱 currently developing software for Holvi Payment Services (code in private repos).
 
 ### Skills 🐍
-Python, Django, PostgreSQL, Docker, Git, JavaScript, HTML, CSS.
+Python, Django, Docker, Git, PostgreSQL, jQuery.
 
 ###
 🟢 I'm currently open for opportunities in Python web development. If interested, please write me on [LinkedIn](https://www.linkedin.com/in/sharbeldahlan) 🤝🏼.
