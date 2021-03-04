@@ -13,7 +13,7 @@ I'm:
 🌱 currently developing software for Holvi Payment Services (code in private repos).
 
 ### Skills 🐍
-Python, Django, Docker, Git, PostgreSQL, jQuery.
+Python, Django, Git, Docker, Test-driven Development, Scrum
 
 ###
 <div align="center">
