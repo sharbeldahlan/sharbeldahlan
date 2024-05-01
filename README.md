@@ -4,7 +4,7 @@ I'm:
 
 💻 a backend engineer,
 
-🎙 into [storytelling](https://www.sharbeldahlan.com/things/),
+🎙 into storytelling, baking 🫓, and reading 📖,
 
 🧉 fueled by yerba mate,
 
@@ -13,7 +13,7 @@ I'm:
 🌱 currently developing software for Nokia Solutions and Networks Oy (code in private repos).
 
 ### Skills 🐍
-Python, Django, Git, Docker, Test-driven Development, Scrum
+Python, Django, Git, Docker, Design patterns, Test-driven development, Scrum
 
 ###
 <div align="center">
