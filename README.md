@@ -10,7 +10,7 @@ I'm:
 
 🇫🇮 based in Helsinki, Finland,
 
-🌱 currently developing software for Holvi Payment Services (code in private repos).
+🌱 currently developing software for Nokia Solutions and Networks Oy (code in private repos).
 
 ### Skills 🐍
 Python, Django, Git, Docker, Test-driven Development, Scrum
