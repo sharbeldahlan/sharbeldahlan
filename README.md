@@ -4,11 +4,9 @@ I'm:
 
 💻 a backend engineer,
 
-🎙 into storytelling, baking 🫓, and reading 📖,
+🎙 into storytelling, baking 🍕, and reading 📖,
 
 🧉 fueled by yerba mate,
-
-🇫🇮 based in Helsinki, Finland,
 
 🌱 currently developing software for Nokia Solutions and Networks Oy (code in private repos).
 
