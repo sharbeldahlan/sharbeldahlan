@@ -15,7 +15,7 @@ Python, Django, Git, Docker, Design patterns, Test-driven development, Scrum
 
 ###
 <div align="center">
-🟢 I'm currently open for opportunities in Python web development. Interested?<br>
+🟢 I'm currently open for opportunities in Python software development. Interested?<br>
     Write me on 👇🏽<br><br>
     <a class="button" href="https://www.linkedin.com/in/sharbeldahlan" target="_blank" rel="nofollow noopener">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
