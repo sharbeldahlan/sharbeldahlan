@@ -11,10 +11,9 @@ I'm:
 🌱 currently developing software for Nokia Solutions and Networks Oy (code in private repos).
 
 ### Skills 🐍
-Python
-Web frameworks: Django, Flask
-Web APIs: DRF
-Design patterns, Software Architecture, Test-driven development, Scrum
+- Python, Design patterns, Software Architecture, Test-driven development, Scrum
+- Web frameworks: Django, Flask
+- Web APIs: DRF
 
 ###
 <div align="center">
