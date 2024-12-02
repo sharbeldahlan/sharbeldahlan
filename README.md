@@ -11,7 +11,10 @@ I'm:
 🌱 currently developing software for Nokia Solutions and Networks Oy (code in private repos).
 
 ### Skills 🐍
-Python, Django, Git, Docker, Design patterns, Test-driven development, Scrum
+Python
+Web frameworks: Django, Flask
+Web APIs: DRF
+Design patterns, Software Architecture, Test-driven development, Scrum
 
 ###
 <div align="center">
