@@ -2,7 +2,7 @@
 
 I'm:
 
-💻 a backend engineer,
+💻 a software engineer,
 
 🎙 into storytelling, baking 🍕, and reading 📖,
 
@@ -12,7 +12,7 @@ I'm:
 
 ### Skills 🐍
 - Python, Design Patterns, Software Architecture, Test-Driven Development, UX
-- Agile methodologies, Stakeholder Collaboration, Leadership and Communication, Technical Documentation
+- Agile Methodologies, Stakeholder Collaboration, Leadership and Communication, Technical Documentation
 - Web frameworks: Django, Flask
 - Web APIs: DRF
 
