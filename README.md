@@ -2,13 +2,14 @@
 
 I'm:
 
-💻 a software engineer who is passionate about **products** that solve real problems 🚀.
+💻 a software engineer with a passion for **products** that solve real problems 🚀.
 
 🎙 into storytelling, baking 🍕, reading 📖, and yerba mate 🧉.
 
 🌱 currently developing software for Nokia Solutions and Networks Oy (code in separate account).
 
-📌 Check out my pinned personal projects below ⚡ 
+###
+⚡ Check out my pinned personal projects below ⚡ 
 
 ### Skills 🐍
 - Python, Design Patterns, Software Architecture, Test-Driven Development, UX
